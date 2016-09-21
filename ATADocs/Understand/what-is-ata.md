@@ -65,7 +65,7 @@ ATA sucht nach drei Haupttypen von Angriffen: böswillige Angriffe, ungewöhnlic
 -   Brute-Force-Angriffe
 -   Remoteausführung
 
-Eine vollständige Liste der Erkennungstypen und deren Beschreibungen finden Sie unter [What Suspicious Activities Can ATA detect?](ata-threats.md) (Welche verdächtigen Aktivitäten kann ATA erkennen?).
+Eine vollständige Liste der Erkennungstypen und deren Beschreibungen finden Sie unter [Nach welchen Bedrohungen sucht ATA?](ata-threats.md)
 ATA erkennt diese verdächtigen Aktivitäten und zeigt Informationen dazu in der ATA-Konsole an, einschließlich einer Übersicht darüber, wer den Angriff wann und wie ausgeführt hat und was dabei geschehen ist. Durch die Überwachung dieses einfachen und benutzerfreundlichen Dashboards werden Sie also benachrichtigt, wenn ATA vermutet, dass ein Pass-the-Hash-Angriff auf die Computer Client 1 und Client 2 in Ihrem Netzwerk versucht wurde.
 
  ![sample ATA screen pass-the-hash](media/sample screen pth.png)
